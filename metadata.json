@@ -1,0 +1,8 @@
+{
+  "name": "Remix Vitta Mix — Cardápio Digital Multilíngue",
+  "description": "Cardápio completo e interativo da Vitta Mix em 5 idiomas (Português, Inglês, Espanhol, Francês e Japonês) com sucos especiais, mixes funcionais de açaí, polpas tropicais, pedidos e avaliações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

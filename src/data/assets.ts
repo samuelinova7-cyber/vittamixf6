@@ -1,0 +1,20 @@
+export const VITTA_ASSETS = {
+  logo: 'https://res.cloudinary.com/hd1sahto/image/upload/v1793294733/WhatsApp_Image_2026-10-29_at_2.15.41_PM_1.jpg',
+  heroVideo: 'https://res.cloudinary.com/hd1sahto/video/upload/v1793295761/Smoothie_moves_on_beach_6bd4089d.mp4',
+  heroImageBg: 'https://res.cloudinary.com/hd1sahto/image/upload/v1793294733/WhatsApp_Image_2026-10-29_at_2.15.41_PM.jpg',
+  googleReviewVideo: 'https://res.cloudinary.com/hd1sahto/video/upload/v1793295761/Colorful_drinks_at_beach_c7e71a44.mp4',
+  ifoodVideo: 'https://res.cloudinary.com/hd1sahto/video/upload/v1793295760/Movimentos_de_iFood_e_entregas_dc0e35d9.mp4',
+  footerVideo: 'https://res.cloudinary.com/hd1sahto/video/upload/v1793294751/SnapInsta.to_AQOFoRmxqiDg_yqzhTszfrlgLCavic98M7qOEpQy9Vzqhe-AvGdlx1NLU7cuebCGozgOQ1PFKgZGsHkO68TWUZktxhzDf5Jg3AkZyzQ.mp4',
+  acaiMixPhoto: 'https://res.cloudinary.com/hd1sahto/image/upload/v1793294734/WhatsApp_Image_2026-10-29_at_2.15.42_PM.jpg',
+  antigripalPhoto: 'https://res.cloudinary.com/hd1sahto/image/upload/v1793294733/WhatsApp_Image_2026-10-29_at_2.15.41_PM_2.jpg',
+  detoxPhoto: 'https://res.cloudinary.com/hd1sahto/image/upload/v1793294733/WhatsApp_Image_2026-10-29_at_2.15.40_PM.jpg',
+  location: {
+    spot: 'Praia do Francês — O último quiosque da orla',
+    city: 'Marechal Deodoro / Alagoas - Brasil',
+    googleMapsUrl: 'https://www.google.com/maps/search/Vitta+Mix+Praia+do+Frances',
+  },
+  instagramHandle: '@vittamix.oficial',
+  instagramAlt: '@vittamix',
+  instagramUrl: 'https://www.instagram.com/vittamix.oficial/',
+  ifoodSearchUrl: 'https://www.ifood.com.br/busca?q=Vitta%20Mix',
+};
